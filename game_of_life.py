@@ -5,8 +5,8 @@ import copy
 class GameOfLife:
 
     '''
-    The grid will have 100x100 cells
-    each cell will be a square of 8x8 pixels
+    The grid will have 50x50 cells
+    each cell will be a square of 16*16 pixels
     '''
     def __init__(self):
         self.grid = []
